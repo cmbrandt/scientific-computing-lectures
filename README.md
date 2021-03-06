@@ -19,7 +19,7 @@ A series of lectures I delivered in the spring of 2020 for the Numerical Algorit
 * linear_algebra (C++23*)
 
 
-## References (updated: 4 February 2021)
+## References (updated: 6 March 2021)
 
 ### Language and Library Extensions
 
