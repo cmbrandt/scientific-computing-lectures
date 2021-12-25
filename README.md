@@ -1,6 +1,6 @@
 # Scientific Computing with C++20 and Beyond
 
-A three part technical talk I delivered in the spring of 2020 for the Numerical Algorithms Group, discussing emerging modern C++ design patterns, new language features and Standard Library extensions for C++20, and experimental Standard library extensions under consideration for C++23.
+A three part technical talk I delivered in the spring of 2020 for the Numerical Algorithms Group, discussing emerging modern C++ design patterns, new language features and Standard Library extensions for C++20, and experimental Standard Library extensions under consideration for C++23.
 
 ## Order of Topics
 
